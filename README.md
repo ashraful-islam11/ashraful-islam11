@@ -1,3 +1,25 @@
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+<br><br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md.+Mizu+Ahmmed+Jim;Frontend+Developer+from+Bangladesh;React+|+JavaScript+|+UI%2FUX;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<!-- Social Badge -->
+<!-- <p align="center">
+  <a href="https://twitter.com/ahmmedmizu60051" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ahmmedmizu60051?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>-->
+
+---
+
+
+
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
