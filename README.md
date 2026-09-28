@@ -16,12 +16,6 @@
   </a>
 </p>-->
 
----
-
-
-
-
-
 - 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
@@ -40,11 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful-islam11&" alt="ashraful-islam11" /></p>
 
 
-### 🌐 Visitor Map  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizu63&theme=radical" alt="Profile Summary" />
-</p>
-
----
-
-⭐ **“Building things that live beautifully on the web.”**  
