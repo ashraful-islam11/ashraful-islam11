@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md.+Mizu+Ahmmed+Jim;Frontend+Developer+from+Bangladesh;React+|+JavaScript+|+UI%2FUX;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ashraful+islam+Jim;Frontend+Developer+from+Bangladesh;React+|+JavaScript+|+UI%2FUX;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,8 +20,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 - 🌱 I’m currently learning **Next.js**
 
